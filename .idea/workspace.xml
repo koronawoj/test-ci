@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cc0c7cd-01b9-448a-8e57-aa8aa6434685" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.Jenkins" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Jenkins" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Jenkins">
+      <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -38,6 +39,7 @@
         <option value="$USER_HOME$/Desktop/hs/package.json" />
         <option value="$USER_HOME$/Desktop/hs/.Dockerfile" />
         <option value="$PROJECT_DIR$/.Jenkins" />
+        <option value="$PROJECT_DIR$/Jenkinsfile" />
       </list>
     </option>
   </component>
@@ -127,15 +129,16 @@
       <option name="presentableId" value="Default" />
       <updated>1534836078776</updated>
       <workItem from="1534836080288" duration="3905000" />
-      <workItem from="1534915895147" duration="6568000" />
+      <workItem from="1534915895147" duration="7692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10473000" />
+    <option name="totallyTimeSpent" value="11597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35139093" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -238,10 +241,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenkins">
+    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="221">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
